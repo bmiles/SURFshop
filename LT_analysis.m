@@ -32,6 +32,7 @@ set(h_xlabel,'FontSize',18)
 set(gca,'fontsize',16)
 set(gca,'YLim',[0 250])
 set(gca,'XLim',[0 250])
+set(Plot1, 'edgecolor', 'none')
 
 
 colorbar('location','eastoutside')
